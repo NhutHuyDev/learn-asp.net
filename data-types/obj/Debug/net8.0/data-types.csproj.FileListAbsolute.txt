@@ -1,0 +1,15 @@
+C:\Users\nnh24\source\repos\NhutHuyDev\learn-dotnet\data-types\bin\Debug\net8.0\data-types.exe
+C:\Users\nnh24\source\repos\NhutHuyDev\learn-dotnet\data-types\bin\Debug\net8.0\data-types.deps.json
+C:\Users\nnh24\source\repos\NhutHuyDev\learn-dotnet\data-types\bin\Debug\net8.0\data-types.runtimeconfig.json
+C:\Users\nnh24\source\repos\NhutHuyDev\learn-dotnet\data-types\bin\Debug\net8.0\data-types.dll
+C:\Users\nnh24\source\repos\NhutHuyDev\learn-dotnet\data-types\bin\Debug\net8.0\data-types.pdb
+C:\Users\nnh24\source\repos\NhutHuyDev\learn-dotnet\data-types\obj\Debug\net8.0\data-types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnh24\source\repos\NhutHuyDev\learn-dotnet\data-types\obj\Debug\net8.0\data-types.AssemblyInfoInputs.cache
+C:\Users\nnh24\source\repos\NhutHuyDev\learn-dotnet\data-types\obj\Debug\net8.0\data-types.AssemblyInfo.cs
+C:\Users\nnh24\source\repos\NhutHuyDev\learn-dotnet\data-types\obj\Debug\net8.0\data-types.csproj.CoreCompileInputs.cache
+C:\Users\nnh24\source\repos\NhutHuyDev\learn-dotnet\data-types\obj\Debug\net8.0\data-types.sourcelink.json
+C:\Users\nnh24\source\repos\NhutHuyDev\learn-dotnet\data-types\obj\Debug\net8.0\data-types.dll
+C:\Users\nnh24\source\repos\NhutHuyDev\learn-dotnet\data-types\obj\Debug\net8.0\refint\data-types.dll
+C:\Users\nnh24\source\repos\NhutHuyDev\learn-dotnet\data-types\obj\Debug\net8.0\data-types.pdb
+C:\Users\nnh24\source\repos\NhutHuyDev\learn-dotnet\data-types\obj\Debug\net8.0\data-types.genruntimeconfig.cache
+C:\Users\nnh24\source\repos\NhutHuyDev\learn-dotnet\data-types\obj\Debug\net8.0\ref\data-types.dll
