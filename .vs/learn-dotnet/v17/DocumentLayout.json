@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{80AD42A5-D312-4AFC-9286-79C197C0F917}|MiddlewareExample\\MiddlewareExample.csproj|c:\\users\\nnh24\\source\\repos\\learn-dotnet\\middlewareexample\\middlewares\\myusewhenexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AD42A5-D312-4AFC-9286-79C197C0F917}|MiddlewareExample\\MiddlewareExample.csproj|solutionrelative:middlewareexample\\middlewares\\myusewhenexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AD42A5-D312-4AFC-9286-79C197C0F917}|MiddlewareExample\\MiddlewareExample.csproj|c:\\users\\nnh24\\source\\repos\\learn-dotnet\\middlewareexample\\middlewares\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AD42A5-D312-4AFC-9286-79C197C0F917}|MiddlewareExample\\MiddlewareExample.csproj|solutionrelative:middlewareexample\\middlewares\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{80AD42A5-D312-4AFC-9286-79C197C0F917}|MiddlewareExample\\MiddlewareExample.csproj|c:\\users\\nnh24\\source\\repos\\learn-dotnet\\middlewareexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80AD42A5-D312-4AFC-9286-79C197C0F917}|MiddlewareExample\\MiddlewareExample.csproj|solutionrelative:middlewareexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,15 +27,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MyUseWhenExample.cs",
+              "DocumentMoniker": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\MiddlewareExample\\Middlewares\\MyUseWhenExample.cs",
+              "RelativeDocumentMoniker": "MiddlewareExample\\Middlewares\\MyUseWhenExample.cs",
+              "ToolTip": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\MiddlewareExample\\Middlewares\\MyUseWhenExample.cs",
+              "RelativeToolTip": "MiddlewareExample\\Middlewares\\MyUseWhenExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:27:08.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\MiddlewareExample\\Program.cs",
               "RelativeDocumentMoniker": "MiddlewareExample\\Program.cs",
               "ToolTip": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\MiddlewareExample\\Program.cs",
               "RelativeToolTip": "MiddlewareExample\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBMAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T03:29:05.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T13:16:57.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCustomMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\MiddlewareExample\\Middlewares\\MyCustomMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddlewareExample\\Middlewares\\MyCustomMiddleware.cs",
+              "ToolTip": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\MiddlewareExample\\Middlewares\\MyCustomMiddleware.cs",
+              "RelativeToolTip": "MiddlewareExample\\Middlewares\\MyCustomMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:15:59.884Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
