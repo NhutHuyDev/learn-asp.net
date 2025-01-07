@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/StaticFilesExample/IMG_2324.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\IMG_2324.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MpjKtREXcLVDddKiATOM14063sBeDRjuvA7M3XcS1hc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1201925"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022MpjKtREXcLVDddKiATOM14063sBeDRjuvA7M3XcS1hc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 04 Jan 2025 17:08:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/StaticFilesExample/IMG_2324.y4wemejciz.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\IMG_2324.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"y4wemejciz"},{"Name":"integrity","Value":"sha256-MpjKtREXcLVDddKiATOM14063sBeDRjuvA7M3XcS1hc="},{"Name":"label","Value":"_content/StaticFilesExample/IMG_2324.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1201925"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022MpjKtREXcLVDddKiATOM14063sBeDRjuvA7M3XcS1hc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 04 Jan 2025 17:08:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

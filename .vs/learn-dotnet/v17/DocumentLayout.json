@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80AD42A5-D312-4AFC-9286-79C197C0F917}|MiddlewareExample\\MiddlewareExample.csproj|c:\\users\\nnh24\\source\\repos\\learn-dotnet\\middlewareexample\\middlewares\\myusewhenexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80AD42A5-D312-4AFC-9286-79C197C0F917}|MiddlewareExample\\MiddlewareExample.csproj|solutionrelative:middlewareexample\\middlewares\\myusewhenexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93272B5A-E4AB-44F4-A5AE-704FA4BE78E4}|StaticFilesExample\\StaticFilesExample.csproj|c:\\users\\nnh24\\source\\repos\\learn-dotnet\\staticfilesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93272B5A-E4AB-44F4-A5AE-704FA4BE78E4}|StaticFilesExample\\StaticFilesExample.csproj|solutionrelative:staticfilesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80AD42A5-D312-4AFC-9286-79C197C0F917}|MiddlewareExample\\MiddlewareExample.csproj|c:\\users\\nnh24\\source\\repos\\learn-dotnet\\middlewareexample\\middlewares\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80AD42A5-D312-4AFC-9286-79C197C0F917}|MiddlewareExample\\MiddlewareExample.csproj|solutionrelative:middlewareexample\\middlewares\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50C6B93F-3DAE-4664-A9A3-18D501DDDEE5}|RoutingExample\\RoutingExample.csproj|c:\\users\\nnh24\\source\\repos\\learn-dotnet\\routingexample\\customeconstraints\\monthsrouteconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C6B93F-3DAE-4664-A9A3-18D501DDDEE5}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\customeconstraints\\monthsrouteconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80AD42A5-D312-4AFC-9286-79C197C0F917}|MiddlewareExample\\MiddlewareExample.csproj|c:\\users\\nnh24\\source\\repos\\learn-dotnet\\middlewareexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80AD42A5-D312-4AFC-9286-79C197C0F917}|MiddlewareExample\\MiddlewareExample.csproj|solutionrelative:middlewareexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93272B5A-E4AB-44F4-A5AE-704FA4BE78E4}|StaticFilesExample\\StaticFilesExample.csproj|c:\\users\\nnh24\\source\\repos\\learn-dotnet\\staticfilesexample\\staticfilesexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93272B5A-E4AB-44F4-A5AE-704FA4BE78E4}|StaticFilesExample\\StaticFilesExample.csproj|solutionrelative:staticfilesexample\\staticfilesexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C6B93F-3DAE-4664-A9A3-18D501DDDEE5}|RoutingExample\\RoutingExample.csproj|c:\\users\\nnh24\\source\\repos\\learn-dotnet\\routingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C6B93F-3DAE-4664-A9A3-18D501DDDEE5}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C6B93F-3DAE-4664-A9A3-18D501DDDEE5}|RoutingExample\\RoutingExample.csproj|c:\\users\\nnh24\\source\\repos\\learn-dotnet\\routingexample\\routingexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50C6B93F-3DAE-4664-A9A3-18D501DDDEE5}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\routingexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,39 +35,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MyUseWhenExample.cs",
-              "DocumentMoniker": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\MiddlewareExample\\Middlewares\\MyUseWhenExample.cs",
-              "RelativeDocumentMoniker": "MiddlewareExample\\Middlewares\\MyUseWhenExample.cs",
-              "ToolTip": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\MiddlewareExample\\Middlewares\\MyUseWhenExample.cs",
-              "RelativeToolTip": "MiddlewareExample\\Middlewares\\MyUseWhenExample.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\StaticFilesExample\\Program.cs",
+              "RelativeDocumentMoniker": "StaticFilesExample\\Program.cs",
+              "ToolTip": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\StaticFilesExample\\Program.cs",
+              "RelativeToolTip": "StaticFilesExample\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T02:27:08.943Z",
+              "WhenOpened": "2025-01-07T15:18:07.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "StaticFilesExample",
+              "DocumentMoniker": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\StaticFilesExample\\StaticFilesExample.csproj",
+              "RelativeDocumentMoniker": "StaticFilesExample\\StaticFilesExample.csproj",
+              "ToolTip": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\StaticFilesExample\\StaticFilesExample.csproj*",
+              "RelativeToolTip": "StaticFilesExample\\StaticFilesExample.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-07T15:13:50.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\MiddlewareExample\\Program.cs",
-              "RelativeDocumentMoniker": "MiddlewareExample\\Program.cs",
-              "ToolTip": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\MiddlewareExample\\Program.cs",
-              "RelativeToolTip": "MiddlewareExample\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\RoutingExample\\Program.cs",
+              "RelativeDocumentMoniker": "RoutingExample\\Program.cs",
+              "ToolTip": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\RoutingExample\\Program.cs",
+              "RelativeToolTip": "RoutingExample\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwC4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T13:16:57.263Z"
+              "WhenOpened": "2025-01-07T14:52:11.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MyCustomMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\MiddlewareExample\\Middlewares\\MyCustomMiddleware.cs",
-              "RelativeDocumentMoniker": "MiddlewareExample\\Middlewares\\MyCustomMiddleware.cs",
-              "ToolTip": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\MiddlewareExample\\Middlewares\\MyCustomMiddleware.cs",
-              "RelativeToolTip": "MiddlewareExample\\Middlewares\\MyCustomMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Title": "MonthsRouteConstraints.cs",
+              "DocumentMoniker": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\RoutingExample\\CustomeConstraints\\MonthsRouteConstraints.cs",
+              "RelativeDocumentMoniker": "RoutingExample\\CustomeConstraints\\MonthsRouteConstraints.cs",
+              "ToolTip": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\RoutingExample\\CustomeConstraints\\MonthsRouteConstraints.cs",
+              "RelativeToolTip": "RoutingExample\\CustomeConstraints\\MonthsRouteConstraints.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAtwA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T13:15:59.884Z"
+              "WhenOpened": "2025-01-07T14:49:55.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoutingExample",
+              "DocumentMoniker": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\RoutingExample\\RoutingExample.csproj",
+              "RelativeDocumentMoniker": "RoutingExample\\RoutingExample.csproj",
+              "ToolTip": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\RoutingExample\\RoutingExample.csproj",
+              "RelativeToolTip": "RoutingExample\\RoutingExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-07T14:47:11.219Z",
+              "EditorCaption": ""
             }
           ]
         },

@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "QnVxGTy8J6VovKfJ3Yqa6JmSOhZIKJ00zSUwZqaRg4g=",
+  "Source": "StaticFilesExample",
+  "BasePath": "_content/StaticFilesExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StaticFilesExample\\wwwroot",
+      "Source": "StaticFilesExample",
+      "ContentRoot": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\StaticFilesExample\\wwwroot\\",
+      "BasePath": "_content/StaticFilesExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\StaticFilesExample\\wwwroot\\IMG_2324.JPG",
+      "SourceId": "StaticFilesExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\StaticFilesExample\\wwwroot\\",
+      "BasePath": "_content/StaticFilesExample",
+      "RelativePath": "IMG_2324#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y4wemejciz",
+      "Integrity": "MpjKtREXcLVDddKiATOM14063sBeDRjuvA7M3XcS1hc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG_2324.JPG"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "IMG_2324.JPG",
+      "AssetFile": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\StaticFilesExample\\wwwroot\\IMG_2324.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1201925"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MpjKtREXcLVDddKiATOM14063sBeDRjuvA7M3XcS1hc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 17:08:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MpjKtREXcLVDddKiATOM14063sBeDRjuvA7M3XcS1hc="
+        }
+      ]
+    },
+    {
+      "Route": "IMG_2324.y4wemejciz.JPG",
+      "AssetFile": "C:\\Users\\nnh24\\source\\repos\\learn-dotnet\\StaticFilesExample\\wwwroot\\IMG_2324.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1201925"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MpjKtREXcLVDddKiATOM14063sBeDRjuvA7M3XcS1hc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 17:08:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y4wemejciz"
+        },
+        {
+          "Name": "label",
+          "Value": "IMG_2324.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MpjKtREXcLVDddKiATOM14063sBeDRjuvA7M3XcS1hc="
+        }
+      ]
+    }
+  ]
+}

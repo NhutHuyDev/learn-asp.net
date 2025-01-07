@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddlewareExample", "Middle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutingExample", "RoutingExample\RoutingExample.csproj", "{50C6B93F-3DAE-4664-A9A3-18D501DDDEE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticFilesExample", "StaticFilesExample\StaticFilesExample.csproj", "{93272B5A-E4AB-44F4-A5AE-704FA4BE78E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{50C6B93F-3DAE-4664-A9A3-18D501DDDEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50C6B93F-3DAE-4664-A9A3-18D501DDDEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50C6B93F-3DAE-4664-A9A3-18D501DDDEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93272B5A-E4AB-44F4-A5AE-704FA4BE78E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93272B5A-E4AB-44F4-A5AE-704FA4BE78E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93272B5A-E4AB-44F4-A5AE-704FA4BE78E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93272B5A-E4AB-44F4-A5AE-704FA4BE78E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
