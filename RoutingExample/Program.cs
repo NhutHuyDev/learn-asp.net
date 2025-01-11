@@ -22,7 +22,7 @@ namespace RoutingExample
                 if (endPoint != null)
                 {
                     await context.Response.WriteAsync($"Start - Endpoint: {endPoint.DisplayName}\n");
-                }
+                }   
                 await next(context);
                 if (endPoint != null)
                 {
@@ -36,16 +36,49 @@ namespace RoutingExample
                 await context.Response.WriteAsync("---------\n");
             });
 
-            app.MapGet("/route-1", async (context) => {
-                await context.Response.WriteAsync("---------\n");
-                await context.Response.WriteAsync("In map 1\n");
-                await context.Response.WriteAsync("---------\n");
-            });
+            // Ta có thể sử dụng MapGroup() thay thể (ASP.NET Core 6.0+)
+            app.Map("/examples", supApp =>
+            {
+                supApp.UseRouting();
 
-            app.MapPost("/route-2", async (context) => {
-                await context.Response.WriteAsync("---------\n");
-                await context.Response.WriteAsync("In map 2\n");
-                await context.Response.WriteAsync("---------\n");
+                supApp.UseEndpoints(endpoints =>
+                {
+                    endpoints.MapGet("/map", async context =>
+                    {
+                        await context.Response.WriteAsync("---------\n");
+                        await context.Response.WriteAsync("In \"/examples/map\" - GET method\n");
+                        await context.Response.WriteAsync("---------\n");
+                    });
+
+                    endpoints.MapPost("/map", async context =>
+                    {
+                        await context.Response.WriteAsync("---------\n");
+                        await context.Response.WriteAsync("In \"/examples/map\" - POST method\n");
+                        await context.Response.WriteAsync("---------\n");
+                    });
+
+                    endpoints.MapPut("/map", async context =>
+                    {
+                        await context.Response.WriteAsync("---------\n");
+                        await context.Response.WriteAsync("In \"/examples/map\" - PUT method\n");
+                        await context.Response.WriteAsync("---------\n");
+
+                    });
+
+                    endpoints.MapPatch("/map", async context =>
+                    {
+                        await context.Response.WriteAsync("---------\n");
+                        await context.Response.WriteAsync("In \"/examples/map\" - PATCH method\n");
+                        await context.Response.WriteAsync("---------\n");
+                    });
+
+                    endpoints.MapDelete("/map", async context =>
+                    {
+                        await context.Response.WriteAsync("---------\n");
+                        await context.Response.WriteAsync("In \"/examples/map\" - DELETE method\n");
+                        await context.Response.WriteAsync("---------\n");
+                    });
+                });
             });
 
             app.Map("/files/{filename}.{extension}", async (string filename, string extension, HttpContext context) =>
